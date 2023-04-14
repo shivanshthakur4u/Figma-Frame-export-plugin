@@ -1,0 +1,20 @@
+{
+    "name": "Export to HTML/CSS",
+    "id": "com.example.export-to-html",
+    "api": "1.0.0",
+    "version": "1.0.0",
+    "description": "Export selected frames to HTML/CSS",
+    "author": "Saurabh",
+    "ui": "ui.html",
+    "main": "code.ts",
+    "menu": {
+        "Export to HTML/CSS": {
+            "description": "Export selected frames to HTML/CSS",
+            "shortcut": "Ctrl+Shift+E"
+        }
+    },
+    "permissions": [
+        "fileWrite",
+        "clipboardWrite"
+    ]
+}

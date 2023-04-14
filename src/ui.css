@@ -1,0 +1,18 @@
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+#selection {
+    list-style: none;
+    padding-left: 0;
+}
+
+#selection li {
+    margin-bottom: 10px;
+}
+
+#export-button {
+    margin-top: 20px;
+}
